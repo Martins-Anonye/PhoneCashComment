@@ -15,7 +15,7 @@
 	},
 	{
 		"Link1" : {
-			"HeadAddress":"Link1",
+			"MediaOrLinkCathegory":"Facebook",
 			"Desc" : "james birthday",
 			"Media Type" : "Facebook",
 			"Owner" : "James clos",
@@ -25,21 +25,19 @@
 	},
 	{
 		"Link2" : {
-			"HeadAddress":"Link2",
+			"MediaOrLinkCathegory":"Twiter",
 			"Desc" : "Peters birthday",
-			"Media Type" : "Facebook",
 			"Owner" : "Peter Flos",
-			"Link" : "http://www.facebook.com/peter/page/..",
+			"Link" : "http://www.twiter.com/peter/page/..",
 			"EventdateAndTime":"Empty,Empty"
 		}
 	},
 	{
 		"Link3" : {
-			"HeadAddress":"Link3",
+			"MediaOrLinkCathegory":"Instagram",
 			"Desc" : "Pauls birthday",
-			"Media Type" : "Facebook",
 			"Owner" : "Pauls salista",
-			"Link" : "http://www.facebook.com/chukwu/page/..",
+			"Link" : "http://www.instagram.com/chukwu/page/..",
 			"EventdateAndTime":"Empty,Empty"
 		}
 	}
