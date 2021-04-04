@@ -13,7 +13,6 @@
 			{
 				"MediaOrLinkCathegory" : "Facebook",
 				"Desc" : "james birthday",
-				"Media Type" : "Facebook",
 				"Owner" : "James clos",
 				"Link" : "http://www.facebook.com/james/page/..",
 				"EventdateAndTime" : "Empty,Empty"
@@ -21,7 +20,6 @@
 			{
 				"MediaOrLinkCathegory" : "Twiter",
 				"Desc" : "james birthday",
-				"Media Type" : "Facebook",
 				"Owner" : "James clos",
 				"Link" : "http://www.facebook.com/james/page/..",
 				"EventdateAndTime" : "Empty,Empty"
