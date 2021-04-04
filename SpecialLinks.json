@@ -1,7 +1,7 @@
 [
 	{
 		"AllLinksHolderOwner" : [
-			"This node (AllLinksHolderOwner) is not needed is use to editable know owners whos containt is already existing so that their respective new links can be added under them  ",
+			"This node (AllLinksHolderOwner) is not needed is use to  know owners whos containt is already existing during editing and so that their respective new links can be added under them   ",
 			"James clos",
 			"Peter Flos",
 			"Pauls salista",
