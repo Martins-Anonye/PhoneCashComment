@@ -1,76 +1,250 @@
 [
-  {
-    "AllCommentsColumnName": [
-      
-      
-        
-     "EveryBody",
-         "Love",
-        "Church",
-        "Music",
-        "History",
-        "Marketing",
-       "Marrage",
-       "Politics",
-        "Movies",
-       "Betray"
-     
-    ]
-  },
-  {
-    "EveryBody": [
-     
-     
-       
-        "int1",
-        "int2",
-       "int3",
-        "int4",
-        "int5",
-        "int6",
-        "int7",
-         "int8",
-        "in9",
-         "int10"
-      
-     
-     
-    ]
-  },
-  {
-    "Love": [
-     
-      
-       
-       "Other1",
-         "other2",
-      "other3",
-        "other4",
-       "other5",
-         "other6",
-         "other7",
-       "other8",
-        "other9",
-       "other10"
-      
-      
-    ]
-  },
-  {
-    "Church": [
-     
-       "CHURCH OF CHRIST",
-       "CREATE GOD",
-        "HALALUYA",
-        "GREATE MIRACLE",
-        "WAOH",
-         "POWERFUL GOD",
-         "HE IS  CREATE GOD",
-         "THE LORD IS GOD ALL THE TIME",
-         "CELEBRATE HIM",
-         "POWERFUL"
-      
-     
-    ]
-  }
+	{
+		"AllCommentsColumnName" : [
+			"General",
+			"Love",
+			"Hustle",
+			"Church",
+			"Music",
+			"History",
+			"Marketing",
+			"Marriage",
+			"Politics",
+			"Movies",
+			"Betray",
+			"Football",
+			"insult",
+			" Inspiration",
+			"Multivation",
+			"Pity",
+			"Sport",
+			"Maths",
+			"Birthday",
+			"Money"
+		]
+	},
+	{
+		"General" : [
+			"This is wonderful",
+			"I can't believe it",
+			"Nice tutorial",
+			"Drop the link dear",
+			"O can't see some part very well",
+			"Be cool bro, its just the basic",
+			"I don't understand",
+			"Can I need your help when the time comes",
+			"Lady's and gentle men",
+			"You are welcome come",
+			"Nice meeting you",
+			"So happy for this ..",
+			"We have so many things to handle",
+			"Nice presentation",
+			"I would love to listen to you again",
+			"Nice flow",
+			"Are you going to be back",
+			"Pleas help out",
+			"Woah nice thought",
+			"Don't cross that ?",
+			"Great job",
+			"Am following",
+			"is it working",
+			"Can you go deeper",
+			"What a great move",
+			"Very simple",
+			"Good",
+			"Woaw, This is great",
+			"Woaw, This is great",
+			"Happy to be here"
+		]
+	},
+	{
+		"Love" : [
+			"Love, but don't trust",
+			"I hate to love you",
+			"I love to love you",
+			"I love to be loved",
+			"Studying about love does not begin in a step",
+			"You are so special",
+			"Drunk in love",
+			"You know that I love you, you know that I need you",
+			"We are burning in love",
+			"Loving you is to give my self a heart break",
+			"Love, to be loved, what a feeling to be loved",
+			"You know why I love you, you know why I need you",
+			"The good and the bad"
+		]
+	},
+	{
+		"Hustle" : [
+			"Money on my mind",
+			" You can't tell a broke man that money is evil, he will site down and believe you",
+			"HALALUYA",
+			"GREATE MIRACLE",
+			"WAOH",
+			"POWERFUL GOD",
+			"HE IS  CREATE GOD",
+			"THE LORD IS GOD ALL THE TIME",
+			"CELEBRATE HIM",
+			"POWERFUL",
+			"You will make it"
+		]
+	},
+	{
+		"Church" : [
+			"CHURCH OF CHRIST",
+			"Great GOD",
+			"HALALUYA",
+			"GREATE MIRACLE",
+			"WAOH",
+			"POWERFUL GOD",
+			"HE IS  CREATE GOD",
+			"THE LORD IS GOD ALL THE TIME",
+			"CELEBRATE HIM",
+			"POWERFUL",
+			"U are right about the scriptures",
+			" We all are winners",
+			"GOD have mercy",
+			" GOD have mercy on us",
+			"The Lord my all will be their for me all ways",
+			"Yes that's is the rock I stand",
+			"Yes that's is the rock I stand",
+			"GOD have forgive",
+			"Amazing god",
+			"Be bless in Jesus name",
+			" Your are bless in the morning, bless in the evening and bless in the knight",
+			"Give the glory",
+			"He is worldly to be adored",
+			" He is all I want",
+			"Who is he that can battle with the Lord king of kings",
+			"The highest Love is the love of GOD, JESUS CHRIST",
+			"Give ur life to CHRIST JESUS. ...",
+			" The end of the days at hands",
+			"That's the reason you will never regard serving GOD",
+			"His word is deep in mean"
+		]
+	},
+	{
+		"Music" : [
+			" You have nice voice",
+			" Can you stress your voice",
+			"I can't believe you can sing like this",
+			"I love this song",
+			"I am loveing this song",
+			"This is the best of our time",
+			"This is the best of it kind",
+			"Dancing a create turn"
+		]
+	},
+	{
+		"Insult" : [
+			"You are crazy",
+			"Did you wash your mouth before saying this",
+			" Big head",
+			"I think you are not with you sense",
+			"Stop talking none sense"
+			
+		]
+	},
+	{
+		"Inspiration" : [
+			"Idea rules the world, but money makes things happen",
+			"Close mouth , not a close mind",
+			"Inspiration: far to be close, loved to be far, so close.",
+			"knowledge is power, money for material, friends for fun, love for straight.",
+			" She cries after the sun comes and goes, the fishes smiles, her check becomes wet, her child becomes her new heaven.",
+			"WHAT A RAINY DAY",
+			" Dont bring all birds as one, know the vulture"
+		]
+	},
+	{
+		"Sport" : [
+			"No one can knock him out",
+			"No one can knock her out",
+			" He is the best in all this year",
+			" No one has challenge him in keeping ball",
+			"This ref is the worst ever",
+			" This ref is the best ever"
+		]
+	},
+	{
+		"fun" : [
+			"Just stop that, I do like it, Laughter no go kill me ooooo",
+			" Am feeling good",
+			"How do you feel after saying this nonsense",
+			"Give me some time, like Two years",
+			"You are not serious",
+			"Drop the bottle and have some test",
+			"Make una come see ooo ",
+			"Make una come see ooo",
+			"Laughter no go kill me ooooo",
+			"Laughter no go kill me ooooo",
+			"Laughter no go kill me ooooo",
+			"Ur self don pass me oooo",
+			"Laughter no go kill me ooooo"
+		]
+	},
+	{
+		"Pity" : [
+			"Peace in your heart",
+			"Peace in your soul",
+			"Not gonna last long",
+			"Not gonna last long",
+			"This is crazy to here",
+			" Don't judge yet",
+			"That is unfar",
+			"Sorry, okk",
+			"I don't think you know what you are doing",
+			"Stop messing around",
+			"Stop talking none sense"
+		]
+	},
+	{
+		"Football" : [
+			"Messi have long shooting style in the football pitch.",
+			"He is the father of football",
+			"Val is acting biased in the match"
+		]
+	},
+	{
+		"Money" : [
+			"Send me some cash ..",
+			"My money grows like forest",
+			"Many cash, many men.many friends , many expenses.",
+			"Drop the cash and let clean up the mess"
+		]
+	},
+	{
+		"Marketing" : [
+			"How much is the price",
+			"Whats the different between this and the existing once"
+		]
+	},
+	{
+		"Multivation" : [
+			" You will not fail and you will never fall.",
+			" Become a gate not an insider",
+			"Life ends, legacy remains",
+			" Remain focus even when your effort is zero, because changies can come at dot point level.",
+			"You can put all eggs in one basket, but make sure there is a great backup behind the basket."
+		]
+	},
+	{
+		"Maths" : [
+			" Check the value",
+			"Can you prove that",
+			" Check the value",
+			"Can you prove that"
+		]
+	},
+	{
+		"Birthday" : [
+			" More happy years ahead",
+			" Wish you many more years and prosperity"
+		]
+	},
+	{
+		"Marriage" : [
+			" God bless your new home"
+		]
+	}
 ]
