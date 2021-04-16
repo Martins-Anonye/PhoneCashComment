@@ -5,7 +5,9 @@
 			"Bros Okorafor",
 			"Blossom Israel",
 			"Phone Cash3x",
-			"Smartprimce"
+			"Smartprimce",
+			"Gideon",
+			"Levitrust"
 		]
 	},
 	{
@@ -57,6 +59,30 @@
 				"Desc" : "Best football update, crypto currency tips and funny videos",
 				"Owner" : "Smartprimce",
 				"Link" : "https://m.youtube.com/channel/UCFfNI_W6ydEpqS28sItugwQ",
+				"EventdateAndTime" : "Empty,Empty"
+			}
+		]
+	},
+	{
+		"Gideon" : [
+			{
+				
+				"MediaOrLinkCathegory" : "Youtube",
+				"Desc" : "the best of our time try not to miss it",
+				"Owner" : "Gideon",
+				"Link" : "https://www.youtube.com/channel/UCe_dNxnOZezdlMjXZ573_eA",
+				"EventdateAndTime" : "Empty,Empty"
+			}
+		]
+	},
+	{
+		"Levitrust" : [
+			{
+				
+				"MediaOrLinkCathegory" : "Youtube",
+				"Desc" : "Best Sports and Movies  Around the World. Best Movies and Sports ever existed including  old , new and latest.",
+				"Owner" : "Levitrust",
+				"Link" : "https://www.youtube.com/channel/UCvKVPLj9wojuMkRrOBd85Og",
 				"EventdateAndTime" : "Empty,Empty"
 			}
 		]
