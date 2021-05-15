@@ -7,7 +7,8 @@
 			"Phone Cash3x",
 			"Smartprimce",
 			"Gideon",
-			"Levitrust"
+			"Levitrust",
+			"Nonso Bbc"
 		]
 	},
 	{
@@ -84,6 +85,19 @@
 				"Owner" : "Levitrust",
 				"Link" : "https://www.youtube.com/channel/UCvKVPLj9wojuMkRrOBd85Og",
 				"EventdateAndTime" : "Empty,Empty"
+			}
+		]
+	},
+	{
+		"NonsoBBc" : [
+			{
+				
+				"MediaOrLinkCathegory" : "Youtube",
+				"Desc" : "Laughter Pro Max, Street Cruz and Vibes",
+				"Owner" : "NonsoBBc",
+				"Link" : "https://youtube.com/channel/UC6wNz5RgMyfYAFeC1_Z3rPA",
+				"EventdateAndTime" : "Empty,Empty"
+				
 			}
 		]
 	}
